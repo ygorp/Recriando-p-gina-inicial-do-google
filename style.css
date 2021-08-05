@@ -112,7 +112,7 @@ button {
 }
 
 button:hover {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .content_offer {
@@ -150,6 +150,10 @@ button:hover {
   text-decoration: none;
   color: #5f6368;
   margin-left: 27px;
+}
+
+.footer_links a:hover {
+  background: rgba(0, 0, 0, 0.2);
 }
 
 @media (min-width: 763px) {
